@@ -1,0 +1,220 @@
+26 Apr 2024 12:49:04 INFO : Logger started
+26 Apr 2024 12:49:05 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 12:49:05 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 12:49:06 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 12:49:06 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 12:49:06 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 12:49:06 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 12:49:06 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 12:49:06 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 12:49:06 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 12:49:06 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 12:49:06 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 12:49:06 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 12:49:06 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 12:49:06 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 12:49:06 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 12:49:06 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 12:49:06 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctnumfmtsb58btype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle stcellstylexfid70c7type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctsheetdimensiond310type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle stref90a2type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle propertiesee84doctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctproperties3f10type
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle properties288cdoctype
+26 Apr 2024 12:49:06 TRACE: Resolving type for handle ctproperties2c18type
+26 Apr 2024 12:49:06 DEBUG: Save content types part
+26 Apr 2024 12:49:06 DEBUG: Save package relationships
+26 Apr 2024 12:49:06 DEBUG: Save part 'docProps/app.xml'
+26 Apr 2024 12:49:06 DEBUG: Save part 'docProps/core.xml'
+26 Apr 2024 12:49:06 DEBUG: Save part 'xl/sharedStrings.xml'
+26 Apr 2024 12:49:06 DEBUG: Save part 'xl/styles.xml'
+26 Apr 2024 12:49:06 DEBUG: Save part 'xl/theme/theme1.xml'
+26 Apr 2024 12:49:06 DEBUG: Save part 'xl/workbook.xml'
+26 Apr 2024 12:49:06 DEBUG: Save part 'xl/worksheets/sheet1.xml'
+26 Apr 2024 14:59:54 INFO : Logger started
+26 Apr 2024 14:59:59 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 14:59:59 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 14:59:59 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 14:59:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 14:59:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 14:59:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 14:59:59 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 14:59:59 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 14:59:59 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+26 Apr 2024 14:59:59 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 14:59:59 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+26 Apr 2024 14:59:59 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 14:59:59 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+26 Apr 2024 14:59:59 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 14:59:59 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+26 Apr 2024 14:59:59 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 14:59:59 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle themefd26doctype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle stylesheet5d8bdoctype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctstylesheet4257type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctnumfmtsb58btype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctfonts6623type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctfont14d8type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctfills2c6ftype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctfill550ctype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctborders0d66type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctborderf935type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctcellxfs1322type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctxf97f7type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctdxfsb26atype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle cttablestyles872ftype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle sstf81fdoctype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctsst44f3type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctrsta472type
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle workbookec17doctype
+26 Apr 2024 14:59:59 TRACE: Resolving type for handle ctworkbook83c3type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctsheets49fdtype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctsheet4dbetype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle strelationshipid1e94type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle worksheetf539doctype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctworksheet530dtype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctcols627ctype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctsheetdata8408type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctrowdd39type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctcell842btype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle stcellrefe4e0type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle stcelltypebf95type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle stxstringf179type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle stcellstylexfid70c7type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctsheetdimensiond310type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle stref90a2type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle propertiesee84doctype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctproperties3f10type
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle properties288cdoctype
+26 Apr 2024 15:00:00 TRACE: Resolving type for handle ctproperties2c18type
+26 Apr 2024 15:00:00 DEBUG: Save content types part
+26 Apr 2024 15:00:00 DEBUG: Save package relationships
+26 Apr 2024 15:00:00 DEBUG: Save part 'docProps/app.xml'
+26 Apr 2024 15:00:00 DEBUG: Save part 'docProps/core.xml'
+26 Apr 2024 15:00:00 DEBUG: Save part 'xl/sharedStrings.xml'
+26 Apr 2024 15:00:00 DEBUG: Save part 'xl/styles.xml'
+26 Apr 2024 15:00:00 DEBUG: Save part 'xl/theme/theme1.xml'
+26 Apr 2024 15:00:00 DEBUG: Save part 'xl/workbook.xml'
+26 Apr 2024 15:00:00 DEBUG: Save part 'xl/worksheets/sheet1.xml'
+26 Apr 2024 15:00:38 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+26 Apr 2024 15:00:38 DEBUG: Parsing relationship: /_rels/.rels
+26 Apr 2024 15:00:38 DEBUG: Save content types part
+26 Apr 2024 15:00:38 DEBUG: Save package relationships
+26 Apr 2024 15:00:38 DEBUG: Save part 'docProps/app.xml'
+26 Apr 2024 15:00:38 DEBUG: Save part 'docProps/core.xml'
+26 Apr 2024 15:00:38 DEBUG: Save part 'xl/sharedStrings.xml'
+26 Apr 2024 15:00:38 DEBUG: Save part 'xl/styles.xml'
+26 Apr 2024 15:00:38 DEBUG: Save part 'xl/theme/theme1.xml'
+26 Apr 2024 15:00:38 DEBUG: Save part 'xl/workbook.xml'
+26 Apr 2024 15:00:38 DEBUG: Save part 'xl/worksheets/sheet1.xml'
+29 Apr 2024 22:16:38 INFO : Logger started
+29 Apr 2024 22:16:49 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+29 Apr 2024 22:16:49 DEBUG: Parsing relationship: /_rels/.rels
+29 Apr 2024 22:16:50 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+29 Apr 2024 22:16:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+29 Apr 2024 22:16:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+29 Apr 2024 22:16:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+29 Apr 2024 22:16:50 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+29 Apr 2024 22:16:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+29 Apr 2024 22:16:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+29 Apr 2024 22:16:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+29 Apr 2024 22:16:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+29 Apr 2024 22:16:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+29 Apr 2024 22:16:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+29 Apr 2024 22:16:50 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+29 Apr 2024 22:16:50 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+29 Apr 2024 22:16:50 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+29 Apr 2024 22:16:50 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle themefd26doctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle stylesheet5d8bdoctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctstylesheet4257type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctnumfmtsb58btype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctfonts6623type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctfont14d8type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctfills2c6ftype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctfill550ctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctborders0d66type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctborderf935type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctcellxfs1322type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctxf97f7type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctdxfsb26atype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle cttablestyles872ftype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle sstf81fdoctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctsst44f3type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctrsta472type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle workbookec17doctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctworkbook83c3type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctsheets49fdtype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctsheet4dbetype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle strelationshipid1e94type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle worksheetf539doctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctworksheet530dtype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctcols627ctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctsheetdata8408type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctrowdd39type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctcell842btype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle stcellrefe4e0type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle stcelltypebf95type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle stxstringf179type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle stcellstylexfid70c7type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctsheetdimensiond310type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle stref90a2type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle propertiesee84doctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctproperties3f10type
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle properties288cdoctype
+29 Apr 2024 22:16:50 TRACE: Resolving type for handle ctproperties2c18type
+29 Apr 2024 22:16:50 DEBUG: Save content types part
+29 Apr 2024 22:16:50 DEBUG: Save package relationships
+29 Apr 2024 22:16:50 DEBUG: Save part 'docProps/app.xml'
+29 Apr 2024 22:16:50 DEBUG: Save part 'docProps/core.xml'
+29 Apr 2024 22:16:50 DEBUG: Save part 'xl/sharedStrings.xml'
+29 Apr 2024 22:16:50 DEBUG: Save part 'xl/styles.xml'
+29 Apr 2024 22:16:50 DEBUG: Save part 'xl/theme/theme1.xml'
+29 Apr 2024 22:16:50 DEBUG: Save part 'xl/workbook.xml'
+29 Apr 2024 22:16:50 DEBUG: Save part 'xl/worksheets/sheet1.xml'
+29 Apr 2024 22:18:58 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+29 Apr 2024 22:18:58 DEBUG: Parsing relationship: /_rels/.rels
+29 Apr 2024 22:18:58 DEBUG: Save content types part
+29 Apr 2024 22:18:58 DEBUG: Save package relationships
+29 Apr 2024 22:18:58 DEBUG: Save part 'docProps/app.xml'
+29 Apr 2024 22:18:58 DEBUG: Save part 'docProps/core.xml'
+29 Apr 2024 22:18:58 DEBUG: Save part 'xl/sharedStrings.xml'
+29 Apr 2024 22:18:58 DEBUG: Save part 'xl/styles.xml'
+29 Apr 2024 22:18:58 DEBUG: Save part 'xl/theme/theme1.xml'
+29 Apr 2024 22:18:58 DEBUG: Save part 'xl/workbook.xml'
+29 Apr 2024 22:18:58 DEBUG: Save part 'xl/worksheets/sheet1.xml'
